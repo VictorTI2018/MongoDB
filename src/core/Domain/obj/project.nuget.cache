@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgWkuteiqZll39kKRd7kfIbnkBZUf8RWUgoKGl2ceOuE5l3376MP+a05/RYb5Coc+QiXsBBcMccw4qEO8htKyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor Silva\\OneDrive - Verity\\Documentos\\Victor\\Estudos\\MongoDB\\src\\core\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Silva\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\Victor Silva\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Victor Silva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://nuget.ecs.com.br/api/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
